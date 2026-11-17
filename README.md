@@ -4,22 +4,13 @@ A responsive academic E-Portfolio for Jawad Noor Aarth, an Electrical and Electr
 
 ## Included
 - Academic profile and education history
-- Current academic standing
+- Current academic standing (40 completed credits; CGPA 3.56; expected graduation 2028)
 - Technical and professional skills
-- ESP32-Based Load Shedding System project
+- ESP32-Based Load Shedding System project overview and an explanatory system architecture diagram
 - Contact and GitHub profile links
 
 ## Publish with GitHub Pages
-1. Open the repository **Settings**.
-2. Select **Pages** in the sidebar.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select branch **main** and folder **/(root)**, then save.
-5. Wait for GitHub Pages to finish deployment. The public site URL will appear in the Pages settings.
+The site is configured for GitHub Pages from the `main` branch and repository root. Open **Settings → Pages** to check deployment status and the public URL.
 
-## Personalization still to add
-- Replace the JNA initials placeholder with a profile photograph.
-- Add photographs of the ESP32 project.
-- Add a professional email address and CV link if desired.
-
-## Accuracy note
-The portfolio uses the academic and project details supplied by Jawad. Add or revise details before submission if any course, date, skill, or project description needs correction.
+## Evidence and accuracy
+The ESP32 diagram is an explanatory illustration, not a photograph of the physical prototype. No project photos or introduction video were supplied, so they are not represented as existing evidence. The profile image and downloadable CV are not bundled in this repository; the page uses an initials avatar and does not offer a broken CV download link. Add original materials later if available.
